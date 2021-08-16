@@ -1,0 +1,3 @@
+
+mvn archetype:generate -Dhttp.proxyHost=proxy.cognizant.com -Dhttp.proxyPort=6050 -Dhttps.proxyHost=proxy.cognizant.com -Dhttps.proxyPort=6050 -Dhttp.proxyUser=805978 -Dhttp.proxyPassword=Athisk@9711## -DgroupId=com.cognizant.maven -DartifactId=mvnlearn -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false 
+ 
